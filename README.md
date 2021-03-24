@@ -44,8 +44,10 @@ Once opened, the procedure is as follows:
   
 ## Screenshots of the program running
 Program_v1 (version 1) 
+
 ![image1](https://user-images.githubusercontent.com/65863634/112239640-9831a100-8c25-11eb-9614-35c612951d44.png)
 
 Program_v2 (version 2)
+
 ![image2](https://user-images.githubusercontent.com/65863634/112239642-9962ce00-8c25-11eb-80ee-ac3364bdb5b4.png)
 
