@@ -9,8 +9,10 @@ But it has an interesting feature, it colored the fields to get a quicker view o
 
 The second version (Programa_v2) incorporates two main changes. Replace the Entries for Labels and uses StringVar() class. Further, a search directory was added so you can change where the data is stored.
 
+Both Python codes (for version 1 and version 2) are available (.py files)
+
 ## Using the program
-The folders have the .exe program. You can unzip it and create a direct access for execute it, or simply open that file.
+The folder "dist" have the .exe program. You can create a direct access for execute it, or simply open that file.
 Once opened, the procedure is as follows:
 
   You can load the data pressing "Actualizar valores" button. It will take a while (around 20 secs) and then it will display all the values.
